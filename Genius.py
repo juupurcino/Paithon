@@ -5,7 +5,6 @@ import time
 acerto = True
 jogadas = 0
 sorteados = []
-velocidade = 2
 decimal = 1
 
 def limpar_tela():
